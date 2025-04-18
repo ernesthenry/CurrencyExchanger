@@ -1,40 +1,31 @@
-# Currency Exchanger - Next.js
+# 💱 Currency Exchanger – Next.js
 
-## Design preview for the Currency Exchanger App
+A sleek and responsive currency exchange rate calculator built with **Next.js**, styled using **Tailwind CSS**, and enhanced with **PWA capabilities**.
+
+---
+
+## 📸 Design Preview
 
 ![Design preview](./ExchangerRateCalculator.png)
 
-This app was built using the follwoing technologies
+---
 
-```
-React
-Tailwind CSS
-Next.js
-Next PWA
-React Typed
-```
+## 🚀 Tech Stack
 
-## Available Scripts
+This app was built using the following technologies:
 
-Clone repo
+- ⚛️ React  
+- 🌬 Tailwind CSS  
+- ⚡ Next.js  
+- 📲 Next PWA  
+- ⌨️ React Typed  
 
-```bash
-npm install
-npm run dev
-# or
-yarn install
-```
+---
 
-In the project directory, you can run:
+## 📦 Getting Started
+
+### 1. Clone the Repository
 
 ```bash
-    npm run dev
-    #or
-    yarn run
-```
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+git clone https://github.com/your-username/currency-exchanger.git
+cd currency-exchanger
